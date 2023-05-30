@@ -13,7 +13,7 @@ __How To Image__
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-__Ho To Code Sample__
+__How To Code Sample__
 
 ```yaml
 this:
@@ -22,3 +22,9 @@ this:
       yaml:
         sample: !
 ```
+
+__How To Task List__
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
