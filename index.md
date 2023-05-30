@@ -6,3 +6,8 @@ __How To Header__
 #### H4
 ##### H5
 ###### H6
+
+
+__How To Image__
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
