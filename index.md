@@ -11,3 +11,14 @@ __How To Header__
 __How To Image__
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+__Ho To Code Sample__
+
+```yaml
+this:
+  is:
+    a:
+      yaml:
+        sample: !
+```
